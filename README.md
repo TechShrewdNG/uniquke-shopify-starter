@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hull.dev">
+  <a href="https://uniquke-shopify-starter.vercel.app/">
     <img src="https://img.shields.io/static/v1?label=&message=View%20Demo&style=for-the-badge&color=black&logo=vercel" />
   </a>
   <br />
